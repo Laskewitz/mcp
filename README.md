@@ -1,2 +1,2 @@
-# mcp
+# MCP Resources
 MCP Resources
