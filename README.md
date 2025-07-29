@@ -18,14 +18,14 @@ A curated collection of Microsoft Copilot Studio Model Context Protocol (MCP) re
 ### Hands-on Learning
 
 - **[Microsoft Copilot Studio ❤️ MCP Lab](https://aka.ms/mcsmcplab)** - Interactive lab for learning MCP integration with Copilot Studio
-- **[Dataverse MCP Lab](https://aka.ms/dataverse/mcp/lab)** - Specialized lab focusing on Dataverse integration with MCP
+- **[Dataverse MCP Lab](https://aka.ms/dataverse/mcp/lab)** - Specialized lab focusing on the Dataverse MCP server
 
 ## 💻 Code Samples & Tools
 
 ### Development Resources
 
 - **[Copilot Studio MCP Samples](https://aka.ms/copilot-studio-mcp)** - Code samples and examples for MCP implementation
-- **[Power Platform CLI MCP Preview](https://aka.ms/pac/mcp)** - Preview of Power Platform CLI tools for MCP development
+- **[Power Platform CLI MCP Preview](https://aka.ms/pac/mcp)** - Preview of the Power Platform CLI MCP server
 
 ---
 
