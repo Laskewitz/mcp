@@ -45,9 +45,11 @@ The Model Context Protocol (MCP) enables seamless integration between AI assista
 
 ## 👨‍💻 About the Author
 
+### Daniel Laskewitz
+
 **Daniel Laskewitz** is Principal Cloud Advocate at Microsoft who curated this collection of MCP resources.
 
-### Connect with Daniel
+#### Connect with Daniel
 
 - **[LinkedIn](https://linkedin.com/in/laskewitz)**
 - **[GitHub](https://github.com/Laskewitz)**
