@@ -9,6 +9,10 @@ A curated collection of Microsoft Copilot Studio Model Context Protocol (MCP) re
 - **[Microsoft Copilot Studio MCP Announcement](https://aka.ms/mcsmcp)** - Official announcement and overview of MCP integration with Microsoft Copilot Studio
 - **[Microsoft Copilot Studio MCP Documentation](https://aka.ms/mcsmcpdocs)** - Comprehensive documentation for implementing MCP with Copilot Studio
 
+### Dataverse MCP
+
+- **[Dataverse MCP Instructions](https://learn.microsoft.com/power-apps/maker/data-platform/data-platform-mcp-disable#sample-agent-instructions) - Instructions you can add to your agent using the Dataverse MCP server**
+
 ### Community & Support
 
 - **[Microsoft Copilot Studio MCP Community](https://aka.ms/mcsmcpcommunity)** - Join the community discussions, ask questions, and share experiences
