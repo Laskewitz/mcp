@@ -69,4 +69,4 @@ The Model Context Protocol (MCP) enables seamless integration between AI assista
 
 - **[LinkedIn](https://www.linkedin.com/in/matsnecker/)**
 - **[GitHub](https://github.com/mnecker)**
-- **[Website](https://www.dhino.io/)**
+- **[Website](https://dhino.io/)**
