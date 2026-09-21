@@ -1,8 +1,0 @@
-{
-  "servers": {
-    "MCPManagement": {
-      "type": "http",
-      "url": "https://agent365.svc.cloud.microsoft/mcp/environments/80e7d84d-0ca9-e3ed-96a1-21b9467e3758/servers/MCPManagement"
-    }
-  }
-}
